@@ -1,0 +1,33 @@
+INSTITUIÇÃO,ANO,ÁREA,TEMA,SUBTEMA,MODELO DE QUESTÃO,CONCEITO MATADOR
+HIAE,2023,UROLOGIA,INFECÇÕES UROLÓGICAS,PROSTATITES,Caso clínico,inferir diagnóstico de prostatite aguda e o seu tratamento (sensação de peso perineal em homem idoso)
+HIAE,2023,CIRURGIA CABEÇA E PESCOÇO,COMPLICAÇÕES INFECCIOSAS CERVICAIS,ABCESSO CERVICAL,Caso clínico,Tratamento abcesso cervical (explorar + busca de foco - normalmente odontológico)
+HIAE,2023,OTORRINOLARINGOLOGIA,VERTIGEM,TRATAMENTO VERTIGEM,Caso clínico,Manobra de DIX halpike quando fazer e componente rotatório
+HIAE,2023,CIRURGIA GERAL,COLELITÍASE E OUTRAS DOENÇAS DA VIA BILIAR,EXPLORAÇÃO VIA BILIAR,Caso clínico,Risco de coledocolitíase no pré op e abordagem
+HIAE,2023,CIRURGIA VASCULAR,OCLUSÃO ARTERIAL AGUDA,COMPLICAÇÕES TRATAMENTO VASCULAR,Caso clínico,Diagnóstico de síndrome compartimental pós embolectomia e seu tratamento
+HIAE,2023,CIRURGIA TORÁCICA,CÂNCER PULMÃO,TRATAMENTO NÓDULO PULMONAR,Caso clínico,"Conduta diante de nódulo de 1,2cm - estratificação de risco"
+HIAE,2022,CIRURGIA GERAL,CUIDADOS OPERATÓRIOS,CUIDADOS INTRA-OPERATÓRIOS,Questão direta,Cálculo de perdas insensíveis intraop para reposição de cristalóide
+HIAE,2022,CIRURGIA GERAL ONCOLÓGICA,TUMOR PERIAMPULAR,DIAGNÓSTICO TUMOR PERIAMPULAR,Caso clínico,Sinal de Curvosier Terrier como patognomônico de neoplasia periampular
+HIAE,2023,UROLOGIA,"BEXIGA NEUROGÊNICA, HIPERATIVA E INCONTINÊNCIA URINÁRIA DE ESFORÇO",TRATAMENTO URGEINCONTINÊNCIA,Caso clínico,Medicações para urgeincontinência e contraindicações (lembrar da oxibutina ser contraindicada em idoso)
+HIAE,2022,CIRURGIA GERAL,ABDOMEN AGUDO,ABDOMEN AGUDO OBSTRUTIVO,Multimídia,O que não fazer diante abdome agudo obstrutivo (contraste baritado)
+HIAE,2023,CIRURGIA VASCULAR,ANEURISMAS,ANEURISMA DE AORTA ABDOMINAL,Multimídia,Tratamento do aneurisma baseado no tamanho e identifcar se ruptura ou estável
+HIAE,2023,CIRURGIA GERAL ONCOLÓGICA,CÂNCER COLORRETAL,DIAGNÓSTICO CÂNCER COLORRETAL,Caso clínico,Anemia + dor abdominal + idade acima de 50 anos = colonoscopia
+HIAE,2023,CIRURGIA GERAL,CUIDADOS OPERATÓRIOS,CUIDADOS PRÉ OPERATÓRIOS,Caso clínico,"O que não fazer na entubaçào de abdome agudo obstrutivo (ambu) e o que pode fazer (sellick, pré oxigenacao, bloqueio NM)"
+HIAE,2023,CIRURGIA GERAL ONCOLÓGICA,CÂNCER GÁSTRICO,FATORES DE RISCO CÂNCER GÁSTRICO,Questão direta ,Saber que H pylori é um dos principais fatores de risco para ca gastrico
+HIAE,2022,CIRURGIA DO TRAUMA,TRAUMA TORÁCICO,DRENO DE TORÁX,Caso clínico,Critérios para retirada do dreno (débito <100 e oscilante)
+HIAE,2022,CIRURGIA GERAL,DISFAGIA E DOENÇAS DO ESÔFAGO,BARRET,Caso clínico,Tratamento Barret baseado no risco
+HIAE,2023,CIRURGIA GERAL,CUIDADOS OPERATÓRIOS,CUIDADOS INTRA-OPERATÓRIOS,Questão direta,Como organizar mesa cirúrgica por tipo de material
+HIAE,2022,CIRURGIA GERAL,CUIDADOS OPERATÓRIOS,CUIDADOS PÓS OPERATÓRIOS,Caso clínico,Diagnóstico de deiscência de aponeurose e uso de tela
+HIAE,2022,CIRURGIA DO TRAUMA,TRAUMA ABDOMINAL,TRAUMA BACIA,Caso clínico,Tratamento pelo tipo de trauma de bacia (tipo III = tamponamento extraperitoneal)
+HIAE,2023,CIRURGIA DO TRAUMA,ATENDIMENTO INICIAL AO POLITRAUMATIZADO,CHOQUE HEMORRÁGICO,Caso clínico,"Classificação de choque, hipotensão permissiva"
+HIAE,2023,CIRURGIA DO TRAUMA,TRAUMA ABDOMINAL,CLASSIFICAÇÃO DE LESÃO ABDOMINAL,Caso clínico,Conduta no trauma hepático grau III
+HIAE,2022,CIRURGIA DO TRAUMA,TRAUMA ABDOMINAL,TRAUMA RENAL,Caso clínico,Trauma renal instável = lapa
+HIAE,2022,CIRURGIA GERAL,HÉRNIAS,HÉRNIAS DE PAREDE ABDOMINAL,Caso clínico,Indicação de tomografia na hérnia encarceirada
+HIAE,2023,CIRURGIA GERAL,HÉRNIAS,HÉRNIAS INGUINAIS,Caso clínico,Recomendações de pós operatório para hérnia inguinal (não levantar mais que 10k nos primeiros 30 dias)
+HIAE,2023,CIRURGIA GERAL,ABDOMEN AGUDO,ABDOMEN AGUDO HEMORRÁGICO,Multimídia,Identificação de um abdome agudo hemorrágico
+HIAE,2023,CIRURGIA GERAL,ABDOMEN AGUDO,ABDOMEN AGUDO OBSTRUTIVO,Multimídia,Ileobiliar no Rx
+HIAE,2023,CIRURGIA GERAL,HÉRNIAS,HÉRNIAS INCISIONAIS,Caso clínico,Hérnia incisional encarceirada na urgencia se corrige com tela não absorvível
+HIAE,2023,UROLOGIA,INFECÇÕES UROLÓGICAS,CISTITE,Caso clínico,Cistite não complicada não precisa de exames
+HIAE,2023,CIRURGIA GERAL,ABDOMEN AGUDO,COLECISTITE,Caso clínico,Murphy positivo = cirurgia de urgência
+HIAE,2022,CIRURGIA GERAL,ABDOMEN AGUDO,ABDOMEN AGUDO NÃO CIRÚRGICO,Caso clínico,Avaliação de sinais de alarme para liberar um abdomen agudo
+HIAE,2022,MEDICINA INTENSIVA,MORTE ENCEFÁLICA,PROTOCOLO DE MORTE ENCEFÁLICA,Questão direta,Teste de apneia positivo se PCo2 acima de 55 e ausencia de movimentos respiratórios
+HIAE,2022,CIRURGIA GERAL ONCOLÓGICA,TUMOR PERIAMPULAR,TRATAMENTO ICTERÍCIA OBSTRUTIVA,Multimídia,Colestase extrahepática em níveis altos = drenagem 
